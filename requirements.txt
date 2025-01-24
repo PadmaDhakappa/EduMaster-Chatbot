@@ -1,7 +1,7 @@
 streamlit==1.25.0
 gtts==2.3.2
 speechrecognition==3.8.1
-torch==2.0.1
+torch==1.13.1
 sentence-transformers==2.2.2
 faiss-cpu==1.7.4
 PyPDF2==3.0.1
