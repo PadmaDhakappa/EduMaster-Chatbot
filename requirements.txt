@@ -1,11 +1,12 @@
 streamlit==1.25.0
 gtts==2.3.2
 speechrecognition==3.8.1
-torch==1.13.1
+torch==2.0.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
 sentence-transformers==2.2.2
 faiss-cpu==1.7.4
-PyPDF2==3.0.1
+PyPDF2
 huggingface_hub==0.14.1
 transformers==4.30.0
 openai==0.27.8
-python-dotenv==1.0.0
+python-dotenv
+pip==24.3.1
