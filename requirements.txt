@@ -9,7 +9,8 @@ huggingface_hub
 transformers
 python-dotenv
 openai
-pillow==9.5.0 --only-binary=:all:
+pillow==8.4.0
+
 
 
 
